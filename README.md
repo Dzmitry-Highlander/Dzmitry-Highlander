@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Dzmitry-Highlander/Dzmitry-Highlander/blob/main/image.jpg?raw=true)
 - :octocat: Hi, I’m Dzmitry
-- 👀 I’m interested in Android Development
+- 👀 I'm interested in Java Enterprise 
 - 🎒 I’m currently learning Java Core
 
 <!---
